@@ -5,7 +5,7 @@
     - UITapGestureRecognize
     - UIImageView
     - UIScrollView
-    - UIButtonr
+    - UIButton
     - Hiding Keyboard 
 
 # Results
