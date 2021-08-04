@@ -1,4 +1,4 @@
-#About
+# About
 * In this project, I didn't use storyboard. You can see how to use **TextField**.
 * Also, 
     - UIAlertController
@@ -6,7 +6,7 @@
     - UIImageView
     - UIScrollView
     - UIButtonr
-    - Hiding Keyboard 
+    - Hiding Keyboard <br>    
     ard used.
 
 # Results
