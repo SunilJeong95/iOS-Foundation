@@ -1,13 +1,12 @@
 # About
 * In this project, I didn't use storyboard. You can see how to use **TextField**.
-* Also, 
+* Also, the following UIs were used.
     - UIAlertController
     - UITapGestureRecognize
     - UIImageView
     - UIScrollView
     - UIButtonr
-    - Hiding Keyboard <br>    
-    ard used.
+    - Hiding Keyboard 
 
 # Results
 * On Simulator
