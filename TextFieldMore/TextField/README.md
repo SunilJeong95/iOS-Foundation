@@ -7,6 +7,7 @@
     - UIScrollView
     - UIButtonr
     - Hiding Keyboard 
+    ard used.
 
 # Results
 * On Simulator
